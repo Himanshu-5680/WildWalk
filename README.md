@@ -1,7 +1,9 @@
 # 🌿 WildWalk
 
 <p align="center">
-  <video src="docs/demo.mp4" width="800" autoplay loop muted playsinline controls></video>
+  <a href="docs/demo.mp4" target="_blank" rel="noopener noreferrer">
+    <img src="docs/demo.gif" alt="WildWalk demo" width="800">
+  </a>
 </p>
 
 <p align="center">

@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+openai
+python-dotenv
+pandas
+tabpfn
+google-search-results
+psycopg[binary]
+pgvector
+pymongo
+elevenlabs
+temporalio
+sentry-sdk
+requests
+edge-tts

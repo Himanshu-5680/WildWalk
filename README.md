@@ -1,7 +1,7 @@
 # 🌿 WildWalk
 
 <p align="center">
-  <img src="docs/demo.mp4" alt="WildWalk demo" width="800">
+  <video src="docs/demo.mp4" width="800" autoplay loop muted playsinline controls></video>
 </p>
 
 <p align="center">
@@ -19,17 +19,11 @@ Built for the **Hacktoberfest 2026 Open-Source AI Challenge** (Week 1: "Touch Gr
 ### Walk plan
 <img src="docs/screenshots/01-plan.png" alt="Walk plan page" width="800">
 
-### Guide and audio
-<img src="docs/screenshots/02-guide-audio.png" alt="Guide and audio player" width="800">
-
-### Pocket mode
-<img src="docs/screenshots/03-pocket-mode.png" alt="Pocket mode timer" width="800">
+### Learn
+<img src="docs/screenshots/02-learn.png" alt="Learn page" width="800">
 
 ### Walk journal
-<img src="docs/screenshots/04-journal.png" alt="Walk journal page" width="800">
-
-### Learn
-<img src="docs/screenshots/05-learn.png" alt="Learn page" width="800">
+<img src="docs/screenshots/03-journal.png" alt="Walk journal page" width="800">
 
 ---
 
